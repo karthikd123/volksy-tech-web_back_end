@@ -1,1 +1,1 @@
-Javascript
+This is a README for my 0x0E-ES6_basic project!
