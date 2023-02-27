@@ -1,1 +1,1 @@
-some text
+JAVASCRIPT is pichi
