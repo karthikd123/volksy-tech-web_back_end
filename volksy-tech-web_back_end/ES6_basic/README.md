@@ -1,1 +1,1 @@
-This is a README for my 0x0E-ES6_basic project!
+This is a README for my 0x10-ES6classes project!
