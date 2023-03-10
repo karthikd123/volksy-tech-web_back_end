@@ -16,9 +16,3 @@ export default class HolbertonClass {
 
   // Getters
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-S
