@@ -1,3 +1,6 @@
-module.exports = function displayMessage(stringMessage) {
-  console.log(stringMessage);
+// Export function that prints message
+const displayMessage = (str) => {
+  console.log(str);
 };
+
+module.exports = displayMessage;
